@@ -1,0 +1,54 @@
+Applications of ICT in academic environment.
+Learning.
+1.Online lectures and tutorials.
+Advantage: Enables revision at any time.
+Disadvantage: Prolonged exposure causes digital fatigue.
+
+2.E-books and research via search engines.
+Advantage: Instant access to updated knowledge.
+Disadvantage: Promotes plagiarism.
+
+Communication.
+1.Class whatsapp group.
+Advantage: Real time dessemination to accademic notices.
+Disadvantages: Information overload due to irrelevant discussions.
+
+2.E-mail for assignment submission.
+Advantage: Paperless and time efficient.
+Disadvantage: Dependent on internet connection.
+
+Manangement.
+1.Computerized attendance system.
+Advantage: Accurate and secure record keeping.
+Disadvantage: Vulnerable to system failure.
+
+2.Online result managemeent.
+Advantage: Transparent and immediate result publication.
+Disadvantage: Requires data security measures.
+
+Entertainment and engagement.
+1.Gamified learning plateforms.
+Advantage: Increases student engagement.
+Disavantage: May divert attention from education.
+
+2.Educational documentaries via projectors.
+Advantage: Simplifies complex tasks through visualization.
+Disadvantage: Risk of misuse for non-educational purposes.
+
+
+Task 4: Keyboard-Only Operation.
+
+Procedure:
+1.Window + D, to access desktop.
+2.Ctrl+Shift+N ,To create folder shortcut.
+3.Enter to open directory and Ctrl+Shift+N, to create copyfolder.
+4.Application key, to create a new text document.
+5.F2 to rename as myname.txt, Enter to open.
+6.Enter personal identification and Ctrl+S ,to save.
+7.Alt+F4, to exit, Ctrl+C to copy.
+8.Arrow keys to copyfolder, Ctrl+V to paste.
+9.F2 to rename paste file to backup.txt.
+10. Return to dictionary and delete original file.
+
+Result: Operation completed. The original file removed and only backup.txt remains in copyfolder.
+
